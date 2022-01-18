@@ -1,0 +1,51 @@
+#resultado{
+    border:1px solid black;
+    width: 210px;
+    height: 40px;
+    margin-bottom: 8px;
+    background-color: white;
+}
+button{
+    min-width: 49px;
+    max-width: 100px;
+    min-height: 40px;
+    max-height: 80px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.418);
+}
+#maior{
+    /*min-width: 102.5px;*/
+    width: 204px;
+    height: 40px;
+    
+}
+section{
+    padding: auto;
+    margin: auto;
+    max-width: 300px;
+}
+span{
+    border:1px solid black;
+    min-width:212px;
+    max-width: 300px;
+    display: grid;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+    background-color: gray;
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.418);
+}
+div{
+    min-width: 212px;
+    max-width: 300px;
+    margin: auto;
+    display: grid;
+    
+}
+header{
+    display: grid;
+    margin-bottom: 50px;
+}
+h1{
+    margin: auto;
+}
