@@ -6,29 +6,25 @@
     background-color: white;
 }
 button{
-    min-width: 49px;
-    max-width: 100px;
-    min-height: 40px;
-    max-height: 80px;
+    width: 49px;
+    height: 40px;
     border: 1px solid black;
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.418);
 }
 #maior{
-    /*min-width: 102.5px;*/
-    width: 204px;
+    width: 102.5px;
     height: 40px;
     
 }
 section{
     padding: auto;
     margin: auto;
-    max-width: 300px;
+    width: 300px;
 }
 span{
     border:1px solid black;
-    min-width:212px;
-    max-width: 300px;
-    display: grid;
+    width:212px;
+    display:grid;
     padding: 10px;
     margin: auto;
     border-radius: 15px;
@@ -36,10 +32,8 @@ span{
     box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.418);
 }
 div{
-    min-width: 212px;
-    max-width: 300px;
+    width: 212px;
     margin: auto;
-    display: grid;
     
 }
 header{
