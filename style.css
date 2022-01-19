@@ -3,13 +3,14 @@
     width: 210px;
     height: 40px;
     margin-bottom: 8px;
-    background-color: white;
+    background-color: rgb(228, 226, 226);
 }
 button{
     width: 49px;
     height: 40px;
     border: 1px solid black;
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.418);
+    background-color: rgb(235, 233, 233);
 }
 #maior{
     width: 102.5px;
@@ -42,4 +43,7 @@ header{
 }
 h1{
     margin: auto;
+}
+html{
+    background-color: white;
 }
