@@ -14,7 +14,8 @@ button{
 }
 button:hover{
     background-color: blue;
-    animation-duration: 1.5;
+    animation-duration: 1.5s;
+    an
 }
 #maior{
     width: 102px;
