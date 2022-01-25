@@ -12,6 +12,10 @@ button{
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.418);
     background-color: rgb(235, 233, 233);
 }
+button:hover{
+    background-color: blue;
+    animation-duration: .5;
+}
 #maior{
     width: 102px;
     height: 40px;
